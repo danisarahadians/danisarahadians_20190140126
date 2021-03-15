@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- nama, tempat tanggal lahir, asal sekolah, tempat kuliah, skill, 
+        pengalaman organisasi, sertifikat, akun sosial media, motivasi masuk IT,
+        harapan setelah lulus nanti-->
+
+    <section style="text-align: center; font-family: Arial, Helvetica, sans-serif;">
+        <img style="width: 200px; border-radius: 10%;" src="bagus_sma.jpg" alt="bagus_sma">
+        <h1 style="font-size: 22px; text-transform: uppercase;">Bagus Rinu Pangayom</h1>
+    </section>
+
+    <p style="border-top: 1px solid black;"></p>
+    <section style="font-family: Arial, Helvetica, sans-serif;
+                    margin:255px; margin-top: -1px; width: 60%;">
+        
+        <!-- Asal Sekolah -->
+        <section style="width: 50%; border-right: 1px solid black;" >
+            <h1 style="text-decoration: underline;">Asal Sekolah</h1>
+            <ul>
+                <li>SMP N 1 Pringsewu</li>
+                <li>SMA N 1 Pringsewu</li>
+            </ul>
+
+            <!-- Tempat Kuliah -->
+            <h1 style="text-decoration: underline;">Tempat Kuliah</h1>
+            <ul>
+                <li>Universitas Muhammadiyah Yogyakarta</li>
+            </ul>
+
+            <!-- Skill -->
+            <h1 style="text-decoration: underline;">Skill</h1>
+            <ul>
+                <li>Musik</li>
+                    <dd>- FL Studio 12</dd>
+                    <dd>- FL Studio 20</dd>
+                    <br>
+                <li>Desain</li>
+                    <dd>- Adobe Photosop</dd>
+                    <dd>- Adobe Illustrator</dd>
+                    <dd>- Canva</dd>
+                    <dd>- Figma</dd>
+                    <br>
+                <li>Microsoft</li>
+                    <dd>- Word</dd>
+                    <dd>- Power Point</dd>
+                    <dd>- Excel</dd>
+                    <br>
+                <li>Vidio</li>
+                    <dd>- Filmora</dd>
+                    <dd>- Premiere</dd><br>
+                <li>Programming Language</li>
+                    <dd>- C# - Beginner</dd>
+                    <dd>- Java - Beginner</dd>
+                    <dd>- Python - Beginner</dd>
+                    <dd>- C++ - Beginner</dd>
+                    <br>
+                <li>Kerjasama Tim</li>
+
+                <br>
+            </ul>
+        </section>
+
+        <section style="float: right; margin-top: -735px;">
+            <h1 style="text-decoration: underline;">Pengalaman Organisasi</h1>
+            <ul>
+                <li>Pramuka</li>
+                <li>Orgaroga - Ketua</li>
+                <li>Alagama - Ketua</li>
+            </ul>
+
+            <h1 style="text-decoration: underline;">Sertifikat</h1>
+            <ul>
+                <li>Java Sertifikat</li>
+            </ul>
+            <h1 style="text-decoration: underline;">Motivasi dan Harapan </h1>
+            <ul>
+                <li>Motivasi Masuk IT</li>
+                    <dd>- Ingin menjadi lulusan IT</dd>
+                    <dd>- Hobi laptop</dd>
+                    <dd>- Hobi komputer</dd>
+                    <dd>- Ingin mendapatkan ilmu</dd>
+                <br>
+                <li>Harapan Setelah Lulus</li>
+                    <dd>- Bekerja di dunia IT</dd>
+                    <dd>- Melanjutkan studi S2</dd>
+                    <dd>- Menjadi Dosen IT</dd>
+            </ul>
+        </section>
+    </section>
+
+    <section style="text-align: center;
+                    margin-top: -200px; text-decoration: none; 
+                    font-family: Arial, Helvetica, sans-serif;">
+        <h1>Sosial Media</h1>
+        <p"><a style="color: black;" href="https://instagram.com/">Instagram</a></p>
+    </section>
+
+    <section style="border-top: 1px solid black; text-align: center;
+                    font-family: Arial, Helvetica, sans-serif;">
+        <p>Bagus Rinu Pangayom | 20190140061 | C</p>
+    </section>
+</body>
+</html>
