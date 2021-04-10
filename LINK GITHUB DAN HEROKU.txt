@@ -1,0 +1,9 @@
+LINK GITHUB
+https://github.com/danisarahadians/danisarahadians_20190140126.git
+
+LINK HEROKU
+SELURUH PRAKTIKUM
+https://danisarahadians20190140126.herokuapp.com/
+
+PRAKTIKUM BOOTSTRAP
+https://danisarahadians20190140126.herokuapp.com/praktikum_bootstrap.html
